@@ -1,1 +1,1 @@
-directories in the PATH
+Create a script that lists environment variables
